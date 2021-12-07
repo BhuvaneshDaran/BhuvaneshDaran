@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+
 ### Hi there 👋
 
-#### A random guy turned VFX Artist to Data Analyst. Still practicing, lots to learn, lots to explore. 
+#### A random VFX Artist turned Data Analyst. Still practicing, lots to learn, lots to explore. 
 
 ##### BIO
 
