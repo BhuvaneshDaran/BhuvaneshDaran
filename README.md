@@ -9,26 +9,26 @@
 :heavy_exclamation_mark: Despite coming from a programming background, I never had a particular interest, neither enthusiastic on programming. Thought of changing my career track from VFX & Video editing to something else. Couldn't find any, couldn't get my mind into something. Until I saw some posts on Football Analysis.<br>
 
 :wrench: The tools I specialize are:
--**Data Analysis & Visualization:**
+- **Data Analysis & Visualization:**
 
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732220.png"></code>
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"></code>
   <code><img height="30" src="https://cdn-icons.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1638886155~hmac=b4df03b4c1cb9e7fd5b238397580dfc3"></code>
 
--**Illustration & Stuffs:**
+- **Illustration & Stuffs:**
 
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
 
--**VFX & Editing:**
+- **VFX & Editing:**
 
   <code><img height="30" src="https://mpng.subpng.com/20180413/zrq/kisspng-rendering-iray-3d-computer-graphics-cinema-4d-comp-cine-5ad1407ba8a960.8575420215236629716909.jpg">     </code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png"></code>
   <code><img height="30" src="https://download.blender.org/branding/blender_logo_socket.png"></code>
   
--**Currently Learning: :pencil2:**
+- **Currently Learning: :pencil2:**
 
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg"></code>
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></code>
