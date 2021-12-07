@@ -6,7 +6,7 @@
 
 - :books: I'm currently doing my PGP in **Data Science and Business Analytics at **Great Lakes Institute of Management**
 - :wrench: The tools I specialize are:
--  **Data Analysis & Visualization:**
+- **Data Analysis & Visualization:**
 
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732220.png"></code>
