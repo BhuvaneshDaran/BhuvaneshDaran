@@ -4,8 +4,8 @@
 
 ##### BIO
 
-:books: I'm currently pursuing my PGP in **Data Science and Business Analytics** at **Great Lakes Institute of Management**
-:heavy_exclamation_mark: Despite coming from a programming background, I never had a particular interest, neither enthusiastic on programming. Thought of changing my career track from VFX & Video editing to something else. Couldn't find any, couldn't get my mind into something. Until I saw some posts on Football Analysis.
+:books: I'm currently pursuing my PGP in **Data Science and Business Analytics** at **Great Lakes Institute of Management**<br>
+:heavy_exclamation_mark: Despite coming from a programming background, I never had a particular interest, neither enthusiastic on programming. Thought of changing my career<br> track from VFX & Video editing to something else. Couldn't find any, couldn't get my mind into something. Until I saw some posts on Football Analysis.<br>
 :wrench: The tools I specialize are:
 **Data Analysis & Visualization:**
 
