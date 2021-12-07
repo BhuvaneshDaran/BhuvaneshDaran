@@ -1,5 +1,4 @@
-https://capsule-render.vercel.app/api?
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20
 
 ### Hi there 👋
 
@@ -42,3 +41,5 @@ https://capsule-render.vercel.app/api?
   <a href="https://twitter.com/Bhuvanesh_Daran/"><img alt="Twitter" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/main/assets/twitter.svg"></a>
   <a href="https://www.linkedin.com/in/bhuvanendiran/"><img alt="LinkedIn" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg"></a>
 </p>
+
+%20&height=300&fontSize=100&textBg=true)
