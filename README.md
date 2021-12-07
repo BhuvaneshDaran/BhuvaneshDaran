@@ -24,7 +24,7 @@
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png"></code>
   <code><img height="30" src="https://download.blender.org/branding/blender_logo_socket.png"></code>
 
-## Connect with me. :smiley_cat:
+## Connect with me. :smile:
 
 <p align="left">
   <a href="https://github.com/BhuvaneshDaran"><img alt="GitHub" height="32" width="32" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
