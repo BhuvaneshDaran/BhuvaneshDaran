@@ -2,7 +2,7 @@
 
 #### A random VFX Artist turned Data Analyst. Still practicing, lots to learn, lots to explore. 
 
-##### **A little thing about myself:**
+- **A little thing about myself:**
 
 :books: I'm currently pursuing my PGP in **Data Science and Business Analytics** at **Great Lakes Institute of Management**<br>
 
