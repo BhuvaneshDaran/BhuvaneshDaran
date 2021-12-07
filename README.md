@@ -26,6 +26,8 @@
 
 ## Connect with me. :smiley_cat:
 
-[![GitHub](https://github.com/peterthehan/peterthehan/blob/main/assets/github.svg)](https://github.com/BhuvaneshDaran/)
-[![Twitter](https://github.com/peterthehan/peterthehan/blob/main/assets/twitter.svg)](https://twitter.com/Bhuvanesh_Daran/)
-[![LinkedIn](https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg)](https://www.linkedin.com/in/bhuvanendiran/)
+<p align="left">
+  <a href="https://github.com/BhuvaneshDaran"><img alt="GitHub" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/main/assets/github.svg"></a>
+  <a href="https://twitter.com/Bhuvanesh_Daran/"><img alt="Twitter" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/main/assets/twitter.svg"></a>
+  <a href="https://www.linkedin.com/in/bhuvanendiran/"><img alt="LinkedIn" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg"></a>
+</p>
