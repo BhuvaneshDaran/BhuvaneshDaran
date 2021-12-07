@@ -26,6 +26,6 @@
 
 ## Connect with me. :smiley_cat:
 
-[![GitHub](icons/github.png)](https://github.com/BhuvaneshDaran/)
-[![Twitter](icons/twitter.png)](https://twitter.com/Bhuvanesh_Daran/)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/bhuvanendiran/)
+[![GitHub](https://github.com/peterthehan/peterthehan/blob/main/assets/github.svg)](https://github.com/BhuvaneshDaran/)
+[![Twitter](https://github.com/peterthehan/peterthehan/blob/main/assets/twitter.svg)](https://twitter.com/Bhuvanesh_Daran/)
+[![LinkedIn](https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg)](https://www.linkedin.com/in/bhuvanendiran/)
