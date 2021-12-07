@@ -20,7 +20,7 @@
 
 - **VFX & Editing:**
 
-<code><img height="30" src="https://p7.hiclipart.com/preview/750/515/702/cinema-4d-3d-computer-graphics-mental-ray-3d-modeling-computer-software-cinema-4d-thumbnail.jpg"></code>
+<code><img height="30" src="https://mpng.subpng.com/20180413/zrq/kisspng-rendering-iray-3d-computer-graphics-cinema-4d-comp-cine-5ad1407ba8a960.8575420215236629716909.jpg"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png"></code>
 <code><img height="30" src="https://download.blender.org/branding/blender_logo_socket.png"></code>
 
