@@ -69,11 +69,9 @@
 </tbody>
 </table>
 
-## Connect with me. :smiley:
+## Connect with me. :smiley_cat:
 
-<p>
-<a href="https://github.com/BhuvaneshDaran"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/bhuvanendiran/"><img src="https://github.com/terrytangyuan/terrytangyuan/blob/master/imgs/linkedin.svg"></a>
-<a href="mailto:bhuvansvs8207@live.com"><img src="https://img.shields.io/badge/-edsrujana1@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/Bhuvanesh_Daran"><img src="https://github.com/terrytangyuan/terrytangyuan/blob/master/imgs/twitter.svg"/></a>
-</p>
+[![GitHub](icons/github.png)](https://github.com/BhuvaneshDaran/)
+[![Twitter](icons/twitter.png)](https://twitter.com/Bhuvanesh_Daran/)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/bhuvanendiran/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
