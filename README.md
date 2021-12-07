@@ -39,4 +39,3 @@
   <a href="https://twitter.com/Bhuvanesh_Daran/"><img alt="Twitter" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/main/assets/twitter.svg"></a>
   <a href="https://www.linkedin.com/in/bhuvanendiran/"><img alt="LinkedIn" height="32" width="32" src="https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg"></a>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90"/>
