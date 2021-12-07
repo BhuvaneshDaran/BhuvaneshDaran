@@ -1,45 +1,16 @@
-   ###   Hello! :wave:
+### Hi there 👋
 
-## Things I specialize in :computer:
+#### A random guy turned VFX Artist to Data Analyst. Still practicing, lots to learn, lots to explore. 
 
-- **Data Analysis**
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
+##### BIO
 
-<td align="center" width="33%">
-<img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
-</td>
-   
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
-</td>
+- :books: I'm currently doing my PGP at **Great Lakes Institute of Management**
+- :wrench: The tools I specialize are:
+**Illustration & Stuffs**
 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
-</td>
-
-</tr>
-</tbody>
-</table>
-
-<hr>
-
-## Currently Learning :books: :pencil:
-
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
-</td>
-</tr>
-
-</tbody>
-</table>
+<code><img height="30" src="https://cdn-icons.flaticon.com/png/512/5210/premium/5210500.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
 
 ## Connect with me. :smiley_cat:
 
