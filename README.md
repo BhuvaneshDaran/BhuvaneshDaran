@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :wave:
 
 #### A random VFX Artist turned Data Analyst. Still practicing, lots to learn, lots to explore. 
 
