@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-#### A random VFX Artist turned Data Analyst. Still practicing, lots to learn, lots to explore. 
+#### A random VFX Artist turned Data Scientist. Still practicing, lots to learn, lots to explore. 
 
 - **A little thing about myself:**
 
