@@ -7,14 +7,16 @@
     :books: I'm currently pursuing my PGP in **Data Science and Business Analytics** at **Great Lakes Institute of Management**<br>
 
     :heavy_exclamation_mark: Despite coming from a programming background, I never had a particular interest, nor enthusiastic on programming. Thought of changing my career track from VFX & Video editing to something else. Couldn't find any, couldn't get my mind into something. Until I saw some posts on Football Analysis.<br>
-
+    
+    :construction_worker: My works can be seen here: (https://github.com/BhuvaneshDaran/My-Data-Viz-Projects/blob/main/README.md)
+    
 :wrench: The tools I specialize are:
 - **Data Analysis & Visualization:**
 
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732220.png"></code>
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png"></code>
-  <code><img height="30" src="https://cdn-icons.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1638886155~hmac=b4df03b4c1cb9e7fd5b238397580dfc3"></code>
+  <code><img height="30" src="https://w7.pngwing.com/pngs/559/367/png-transparent-postgresql-object-relational-database-oracle-database-freebsd-icon-text-logo-head.png"></code>
 
 - **Illustration & Stuffs:**
 
